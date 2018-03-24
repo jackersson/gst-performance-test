@@ -1,0 +1,33 @@
+FILES = ['/home/taras/Downloads/data_ai_videos/test_video_1603.mp4'] * 30
+
+RTSP = [
+    "rtsp://admin:admin@192.168.1.112:554/av0_0",
+    "rtsp://admin:admin@192.168.1.126:554/av0_0",
+    "rtsp://admin:admin@192.168.1.125:554/av0_0",
+    "rtsp://admin:admin@192.168.1.124:554/av0_0",
+    "rtsp://admin:admin@192.168.1.123:554/av0_0",
+    "rtsp://admin:admin@192.168.1.122:554/av0_0",
+    "rtsp://admin:admin@192.168.1.121:554/av0_0",
+    "rtsp://admin:admin@192.168.1.120:554/av0_0",
+    "rtsp://admin:admin@192.168.1.119:554/av0_0",
+    "rtsp://admin:admin@192.168.1.117:554/av0_0",
+    "rtsp://admin:admin@192.168.1.116:554/av0_0",
+    "rtsp://admin:admin@192.168.1.115:554/av0_0",
+    "rtsp://admin:admin@192.168.1.114:554/av0_0",
+    "rtsp://admin:admin@192.168.1.113:554/av0_0",
+    "rtsp://admin:admin@192.168.1.127:554/av0_0",
+    "rtsp://admin:admin@192.168.1.111:554/av0_0",
+    "rtsp://admin:admin@192.168.1.110:554/av0_0",
+    "rtsp://admin:admin@192.168.1.107:554/av0_0",
+    "rtsp://admin:admin@192.168.1.106:554/av0_0",
+    "rtsp://admin:admin@192.168.1.105:554/av0_0",
+    "rtsp://admin:admin@192.168.1.104:554/av0_0",
+    "rtsp://admin:admin@192.168.1.103:554/av0_0",
+    "rtsp://admin:admin@192.168.1.102:554/av0_0",
+    "rtsp://admin:admin@192.168.1.101:554/av0_0",
+    "rtsp://admin:admin@192.168.1.100:554/av0_0",
+    "rtsp://admin:admin@192.168.1.130:554/cam/realmonitor?channel=1&subtype=0",
+    "rtsp://admin:admin@192.168.1.129:554/cam/realmonitor?channel=1&subtype=0",
+    "rtsp://admin:admin@192.168.1.128:554/cam/realmonitor?channel=1&subtype=0",
+    "rtsp://admin:admin@192.168.1.108:554/cam/realmonitor?channel=1&subtype=0"
+]
